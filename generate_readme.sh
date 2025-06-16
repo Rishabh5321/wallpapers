@@ -10,8 +10,6 @@ IMAGES_PER_PAGE=9
 COLUMNS=3
 IMAGE_WIDTH=300
 
-# --- Script Start ---
-
 # Check if we're in a git repository
 if [ ! -d ".git" ]; then
     echo "⚠️  Warning: This directory does not appear to be a git repository."
