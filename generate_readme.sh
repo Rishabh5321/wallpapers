@@ -20,7 +20,7 @@ echo "🎨 Initializing Wallpaper Gallery Generation..."
 
 # Scan for image files and sort them naturally
 echo "🔍 Searching for images (.png, .jpg, .jpeg, .gif, .webp)..."
-mapfile -t images < <(find . -maxdepth 1 -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.gif" -o -iname "*.webp" \) 2>/dev/null | sort -V)
+mapfile -t images < <(find ./src -maxdepth 1 -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.gif" -o -iname "*.webp" \) 2>/dev/null | sort -V)
 
 total_images=${#images[@]}
 if [ $total_images -eq 0 ]; then
@@ -130,7 +130,7 @@ generate_table() {
         fi
 
         local img="${images[i]}"
-        local img_clean="${img#./}"
+        local img_clean="${img#./src/}"
         local img_name=$(basename "$img_clean" | sed 's/\.[^.]*$//')
 
         echo "    <td width=\"${IMAGE_WIDTH}px\" align=\"center\">" >> "$filename"
