@@ -1,69 +1,93 @@
 # 🖼️ Wallpaper Gallery
 
-*Showing page 1 of 3 (26 total wallpapers)*
-
----
+*Page 1 of 3 — Showcasing a collection of 26 stunning wallpapers.*
 
 
 ---
 
 <div align="center">
 
-  <span style="color: #ccc;">← Previous</span>
-  &nbsp;&nbsp;&nbsp;
-  <strong>Page 1 of 3</strong>
-  &nbsp;&nbsp;&nbsp;
-  <a href="README-page-2.md">Next →</a>
+  <span style="color: #999;">⬅️ Previous</span>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  Page 1 of 3
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <a href="README-page-2.md">Next ➡️</a>
 
 </div>
-
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <small>
-    Pages: <strong>1</strong> • <a href="README-page-2.md">2</a> • <a href="README-page-3.md">3</a>
+  <strong>[1]</strong> • <a href="README-page-2.md">2</a> • <a href="README-page-3.md">3</a>
   </small>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="300px">
-      <img src="wall1.png" width="300px" alt="wall1"><br>
-      <small><em>wall1</em></small>
+<table width="100%" align="center">
+  <tr align="center">
+    <td width="300px" align="center">
+      <a href="wall1.png">
+        <img src="wall1.png" width="300px" alt="wall1">
+      </a>
+      <br>
+      <small><i>wall1</i></small>
     </td>
-    <td align="center" width="300px">
-      <img src="wall2.jpg" width="300px" alt="wall2"><br>
-      <small><em>wall2</em></small>
+    <td width="300px" align="center">
+      <a href="wall2.jpg">
+        <img src="wall2.jpg" width="300px" alt="wall2">
+      </a>
+      <br>
+      <small><i>wall2</i></small>
     </td>
-    <td align="center" width="300px">
-      <img src="wall3.png" width="300px" alt="wall3"><br>
-      <small><em>wall3</em></small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300px">
-      <img src="wall4.jpg" width="300px" alt="wall4"><br>
-      <small><em>wall4</em></small>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall5.png" width="300px" alt="wall5"><br>
-      <small><em>wall5</em></small>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall6.jpg" width="300px" alt="wall6"><br>
-      <small><em>wall6</em></small>
+    <td width="300px" align="center">
+      <a href="wall3.png">
+        <img src="wall3.png" width="300px" alt="wall3">
+      </a>
+      <br>
+      <small><i>wall3</i></small>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="300px">
-      <img src="wall7.png" width="300px" alt="wall7"><br>
-      <small><em>wall7</em></small>
+  <tr align="center">
+    <td width="300px" align="center">
+      <a href="wall4.jpg">
+        <img src="wall4.jpg" width="300px" alt="wall4">
+      </a>
+      <br>
+      <small><i>wall4</i></small>
     </td>
-    <td align="center" width="300px">
-      <img src="wall8.png" width="300px" alt="wall8"><br>
-      <small><em>wall8</em></small>
+    <td width="300px" align="center">
+      <a href="wall5.png">
+        <img src="wall5.png" width="300px" alt="wall5">
+      </a>
+      <br>
+      <small><i>wall5</i></small>
     </td>
-    <td align="center" width="300px">
-      <img src="wall9.png" width="300px" alt="wall9"><br>
-      <small><em>wall9</em></small>
+    <td width="300px" align="center">
+      <a href="wall6.jpg">
+        <img src="wall6.jpg" width="300px" alt="wall6">
+      </a>
+      <br>
+      <small><i>wall6</i></small>
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="300px" align="center">
+      <a href="wall7.png">
+        <img src="wall7.png" width="300px" alt="wall7">
+      </a>
+      <br>
+      <small><i>wall7</i></small>
+    </td>
+    <td width="300px" align="center">
+      <a href="wall8.png">
+        <img src="wall8.png" width="300px" alt="wall8">
+      </a>
+      <br>
+      <small><i>wall8</i></small>
+    </td>
+    <td width="300px" align="center">
+      <a href="wall9.png">
+        <img src="wall9.png" width="300px" alt="wall9">
+      </a>
+      <br>
+      <small><i>wall9</i></small>
     </td>
   </tr>
 </table>
@@ -72,21 +96,21 @@
 
 <div align="center">
 
-  <span style="color: #ccc;">← Previous</span>
-  &nbsp;&nbsp;&nbsp;
-  <strong>Page 1 of 3</strong>
-  &nbsp;&nbsp;&nbsp;
-  <a href="README-page-2.md">Next →</a>
+  <span style="color: #999;">⬅️ Previous</span>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  Page 1 of 3
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <a href="README-page-2.md">Next ➡️</a>
 
 </div>
-
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <small>
-    Pages: <strong>1</strong> • <a href="README-page-2.md">2</a> • <a href="README-page-3.md">3</a>
+  <strong>[1]</strong> • <a href="README-page-2.md">2</a> • <a href="README-page-3.md">3</a>
   </small>
 </div>
 
+
 ---
 <div align="center">
-  <small>Generated automatically with the wallpaper gallery script</small>
+  <small>This gallery was automatically generated. ✨</small>
 </div>
