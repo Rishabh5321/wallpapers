@@ -1,6 +1,6 @@
 # 🖼️ Wallpaper Gallery
 
-*Page 4 of 13 — Showcasing a collection of 113 stunning wallpapers.*
+*Page 4 of 13 — Showcasing a collection of 111 stunning wallpapers.*
 
 
 ---
@@ -30,8 +30,8 @@
       <small><i>wall28</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall29.png">
-        <img src="src/wall29.png" width="300px" alt="Wallpaper: wall29">
+      <a href="wall29.jpg">
+        <img src="src/wall29.jpg" width="300px" alt="Wallpaper: wall29">
       </a>
       <br>
       <small><i>wall29</i></small>
@@ -46,22 +46,22 @@
   </tr>
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall31.jpg">
-        <img src="src/wall31.jpg" width="300px" alt="Wallpaper: wall31">
+      <a href="wall31.gif">
+        <img src="src/wall31.gif" width="300px" alt="Wallpaper: wall31">
       </a>
       <br>
       <small><i>wall31</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall32.png">
-        <img src="src/wall32.png" width="300px" alt="Wallpaper: wall32">
+      <a href="wall32.jpg">
+        <img src="src/wall32.jpg" width="300px" alt="Wallpaper: wall32">
       </a>
       <br>
       <small><i>wall32</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall33.gif">
-        <img src="src/wall33.gif" width="300px" alt="Wallpaper: wall33">
+      <a href="wall33.jpg">
+        <img src="src/wall33.jpg" width="300px" alt="Wallpaper: wall33">
       </a>
       <br>
       <small><i>wall33</i></small>
@@ -69,22 +69,22 @@
   </tr>
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall34.jpg">
-        <img src="src/wall34.jpg" width="300px" alt="Wallpaper: wall34">
+      <a href="wall34.png">
+        <img src="src/wall34.png" width="300px" alt="Wallpaper: wall34">
       </a>
       <br>
       <small><i>wall34</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall35.jpg">
-        <img src="src/wall35.jpg" width="300px" alt="Wallpaper: wall35">
+      <a href="wall35.png">
+        <img src="src/wall35.png" width="300px" alt="Wallpaper: wall35">
       </a>
       <br>
       <small><i>wall35</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall36.png">
-        <img src="src/wall36.png" width="300px" alt="Wallpaper: wall36">
+      <a href="wall36.jpg">
+        <img src="src/wall36.jpg" width="300px" alt="Wallpaper: wall36">
       </a>
       <br>
       <small><i>wall36</i></small>

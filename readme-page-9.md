@@ -1,6 +1,6 @@
 # 🖼️ Wallpaper Gallery
 
-*Page 9 of 13 — Showcasing a collection of 113 stunning wallpapers.*
+*Page 9 of 13 — Showcasing a collection of 111 stunning wallpapers.*
 
 
 ---
@@ -23,8 +23,8 @@
 <table width="100%" align="center">
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall73.jpg">
-        <img src="src/wall73.jpg" width="300px" alt="Wallpaper: wall73">
+      <a href="wall73.png">
+        <img src="src/wall73.png" width="300px" alt="Wallpaper: wall73">
       </a>
       <br>
       <small><i>wall73</i></small>
@@ -37,8 +37,8 @@
       <small><i>wall74</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall75.png">
-        <img src="src/wall75.png" width="300px" alt="Wallpaper: wall75">
+      <a href="wall75.jpg">
+        <img src="src/wall75.jpg" width="300px" alt="Wallpaper: wall75">
       </a>
       <br>
       <small><i>wall75</i></small>
@@ -53,8 +53,8 @@
       <small><i>wall76</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall77.jpg">
-        <img src="src/wall77.jpg" width="300px" alt="Wallpaper: wall77">
+      <a href="wall77.png">
+        <img src="src/wall77.png" width="300px" alt="Wallpaper: wall77">
       </a>
       <br>
       <small><i>wall77</i></small>
@@ -69,8 +69,8 @@
   </tr>
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall79.png">
-        <img src="src/wall79.png" width="300px" alt="Wallpaper: wall79">
+      <a href="wall79.jpg">
+        <img src="src/wall79.jpg" width="300px" alt="Wallpaper: wall79">
       </a>
       <br>
       <small><i>wall79</i></small>

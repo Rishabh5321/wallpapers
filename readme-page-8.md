@@ -1,6 +1,6 @@
 # 🖼️ Wallpaper Gallery
 
-*Page 8 of 13 — Showcasing a collection of 113 stunning wallpapers.*
+*Page 8 of 13 — Showcasing a collection of 111 stunning wallpapers.*
 
 
 ---
@@ -23,8 +23,8 @@
 <table width="100%" align="center">
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall64.jpg">
-        <img src="src/wall64.jpg" width="300px" alt="Wallpaper: wall64">
+      <a href="wall64.png">
+        <img src="src/wall64.png" width="300px" alt="Wallpaper: wall64">
       </a>
       <br>
       <small><i>wall64</i></small>
@@ -37,8 +37,8 @@
       <small><i>wall65</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall66.png">
-        <img src="src/wall66.png" width="300px" alt="Wallpaper: wall66">
+      <a href="wall66.jpg">
+        <img src="src/wall66.jpg" width="300px" alt="Wallpaper: wall66">
       </a>
       <br>
       <small><i>wall66</i></small>
@@ -60,8 +60,8 @@
       <small><i>wall68</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall69.jpg">
-        <img src="src/wall69.jpg" width="300px" alt="Wallpaper: wall69">
+      <a href="wall69.png">
+        <img src="src/wall69.png" width="300px" alt="Wallpaper: wall69">
       </a>
       <br>
       <small><i>wall69</i></small>
@@ -69,22 +69,22 @@
   </tr>
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall70.jpg">
-        <img src="src/wall70.jpg" width="300px" alt="Wallpaper: wall70">
+      <a href="wall70.png">
+        <img src="src/wall70.png" width="300px" alt="Wallpaper: wall70">
       </a>
       <br>
       <small><i>wall70</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall71.png">
-        <img src="src/wall71.png" width="300px" alt="Wallpaper: wall71">
+      <a href="wall71.jpg">
+        <img src="src/wall71.jpg" width="300px" alt="Wallpaper: wall71">
       </a>
       <br>
       <small><i>wall71</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall72.png">
-        <img src="src/wall72.png" width="300px" alt="Wallpaper: wall72">
+      <a href="wall72.jpg">
+        <img src="src/wall72.jpg" width="300px" alt="Wallpaper: wall72">
       </a>
       <br>
       <small><i>wall72</i></small>

@@ -1,6 +1,6 @@
 # 🖼️ Wallpaper Gallery
 
-*Page 3 of 13 — Showcasing a collection of 113 stunning wallpapers.*
+*Page 3 of 13 — Showcasing a collection of 111 stunning wallpapers.*
 
 
 ---
@@ -37,8 +37,8 @@
       <small><i>wall20</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall21.jpg">
-        <img src="src/wall21.jpg" width="300px" alt="Wallpaper: wall21">
+      <a href="wall21.png">
+        <img src="src/wall21.png" width="300px" alt="Wallpaper: wall21">
       </a>
       <br>
       <small><i>wall21</i></small>
@@ -46,22 +46,22 @@
   </tr>
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall22.png">
-        <img src="src/wall22.png" width="300px" alt="Wallpaper: wall22">
+      <a href="wall22.jpg">
+        <img src="src/wall22.jpg" width="300px" alt="Wallpaper: wall22">
       </a>
       <br>
       <small><i>wall22</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall23.png">
-        <img src="src/wall23.png" width="300px" alt="Wallpaper: wall23">
+      <a href="wall23.jpg">
+        <img src="src/wall23.jpg" width="300px" alt="Wallpaper: wall23">
       </a>
       <br>
       <small><i>wall23</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall24.jpg">
-        <img src="src/wall24.jpg" width="300px" alt="Wallpaper: wall24">
+      <a href="wall24.png">
+        <img src="src/wall24.png" width="300px" alt="Wallpaper: wall24">
       </a>
       <br>
       <small><i>wall24</i></small>
@@ -83,8 +83,8 @@
       <small><i>wall26</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall27.jpg">
-        <img src="src/wall27.jpg" width="300px" alt="Wallpaper: wall27">
+      <a href="wall27.png">
+        <img src="src/wall27.png" width="300px" alt="Wallpaper: wall27">
       </a>
       <br>
       <small><i>wall27</i></small>
