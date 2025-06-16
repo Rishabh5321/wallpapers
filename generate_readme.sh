@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# 🎨 Wallpaper Gallery Generator
+# 🎨 Wallpaper Gallery Generator (GitHub-Optimized)
 #
-# This script scans the current directory for images and generates a
-# paginated Markdown gallery, perfect for GitHub READMEs.
+# Scans the current directory for images and generates a paginated Markdown gallery,
+# perfect for GitHub READMEs and repository documentation.
 
 # --- Configuration ---
 IMAGES_PER_PAGE=9
@@ -50,9 +50,9 @@ generate_navigation() {
     if [ $current_page -gt 1 ]; then
         local prev_page=$((current_page - 1))
         if [ $prev_page -eq 1 ]; then
-            echo "  <a href=\"README.md\">⬅️ Previous</a>" >> "$filename"
+            echo "  <a href=\"readme.md\">⬅️ Previous</a>" >> "$filename"
         else
-            echo "  <a href=\"README-page-$prev_page.md\">⬅️ Previous</a>" >> "$filename"
+            echo "  <a href=\"readme-page-$prev_page.md\">⬅️ Previous</a>" >> "$filename"
         fi
     else
         echo "  <span style=\"color: #999;\">⬅️ Previous</span>" >> "$filename"
@@ -65,7 +65,7 @@ generate_navigation() {
     # Next Page Link
     if [ $current_page -lt $total_pages ]; then
         local next_page=$((current_page + 1))
-        echo "  <a href=\"README-page-$next_page.md\">Next ➡️</a>" >> "$filename"
+        echo "  <a href=\"readme-page-$next_page.md\">Next ➡️</a>" >> "$filename"
     else
         echo "  <span style=\"color: #999;\">Next ➡️</span>" >> "$filename"
     fi
@@ -82,9 +82,9 @@ generate_navigation() {
             echo -n "<strong>[$p]</strong>" >> "$filename"
         else
             if [ $p -eq 1 ]; then
-                echo -n "<a href=\"README.md\">$p</a>" >> "$filename"
+                echo -n "<a href=\"readme.md\">$p</a>" >> "$filename"
             else
-                echo -n "<a href=\"README-page-$p.md\">$p</a>" >> "$filename"
+                echo -n "<a href=\"readme-page-$p.md\">$p</a>" >> "$filename"
             fi
         fi
         if [ $p -lt $total_pages ]; then
@@ -135,7 +135,7 @@ generate_table() {
 
         echo "    <td width=\"${IMAGE_WIDTH}px\" align=\"center\">" >> "$filename"
         echo "      <a href=\"$img_clean\">" >> "$filename"
-        echo "        <img src=\"$img_clean\" width=\"${IMAGE_WIDTH}px\" alt=\"$img_name\">" >> "$filename"
+        echo "        <img src=\"$img_clean\" width=\"${IMAGE_WIDTH}px\" alt=\"Wallpaper: $img_name\">" >> "$filename"
         echo "      </a>" >> "$filename"
         echo "      <br>" >> "$filename"
         echo "      <small><i>$img_name</i></small>" >> "$filename"
@@ -158,9 +158,9 @@ for ((page=1; page<=total_pages; page++)); do
     end_idx=$(( start_idx + IMAGES_PER_PAGE - 1 ))
 
     if [ $page -eq 1 ]; then
-        filename="README.md"
+        filename="readme.md"
     else
-        filename="README-page-$page.md"
+        filename="readme-page-$page.md"
     fi
 
     echo "📄 Generating $filename..."
@@ -181,19 +181,19 @@ for ((page=1; page<=total_pages; page++)); do
         generate_navigation $page $total_pages "$filename"
     fi
 
-    # Footer
-    echo "" >> "$filename"
+    # Footer with licensing/copyright note
     echo "" >> "$filename"
     echo "---" >> "$filename"
     echo "<div align=\"center\">" >> "$filename"
     echo "  <small>This gallery was automatically generated. ✨</small>" >> "$filename"
+    echo "  <br>" >> "$filename"
     echo "</div>" >> "$filename"
 done
 
 # --- Index File Generation ---
 
 if [ $total_pages -gt 1 ]; then
-    echo "📑 Generating INDEX.md..."
+    echo "📑 Generating index.md..."
     {
         echo "# 📂 Wallpaper Gallery Index"
         echo ""
@@ -209,14 +209,14 @@ if [ $total_pages -gt 1 ]; then
             [ $end_img -gt $total_images ] && end_img=$total_images
 
             if [ $page -eq 1 ]; then
-                echo "| [**Page $page**](README.md) | Images $start_img - $end_img |"
+                echo "| [**Page $page**](readme.md) | Images $start_img - $end_img |"
             else
-                echo "| [**Page $page**](README-page-$page.md) | Images $start_img - $end_img |"
+                echo "| [**Page $page**](readme-page-$page.md) | Images $start_img - $end_img |"
             fi
         done
         echo ""
         echo "<div align=\"center\">"
-        echo "  <a href=\"README.md\">🚀 Start Browse from Page 1</a>"
+        echo "  <a href=\"readme.md\">🚀 Start Browse from Page 1</a>"
         echo "</div>"
         echo ""
         echo "---"
@@ -224,7 +224,7 @@ if [ $total_pages -gt 1 ]; then
         echo "- **Total Images:** $total_images"
         echo "- **Images per Page:** $IMAGES_PER_PAGE"
         echo "- **Image Formats:** PNG, JPG, JPEG, GIF, WebP"
-    } > INDEX.md
+    } > index.md
 fi
 
 # --- Completion ---
@@ -240,14 +240,14 @@ echo ""
 
 if [ $total_pages -gt 1 ]; then
     echo "📁 **Generated Files:**"
-    echo "   - README.md (Page 1)"
+    echo "   - readme.md (Page 1)"
     for ((page=2; page<=total_pages; page++)); do
-        echo "   - README-page-$page.md"
+        echo "   - readme-page-$page.md"
     done
-    echo "   - INDEX.md"
+    echo "   - index.md"
     echo ""
-    echo "🚀 **Get Started by viewing [README.md](README.md) or the [INDEX.md](INDEX.md) file.**"
+    echo "🚀 **Get Started by viewing [readme.md](readme.md) or the [index.md](index.md) file.**"
 else
     echo "📁 **Generated File:**"
-    echo "   - README.md"
+    echo "   - readme.md"
 fi
