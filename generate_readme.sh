@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Configuration
-IMAGES_PER_PAGE=10
+IMAGES_PER_PAGE=9
 COLUMNS=3
 IMAGE_WIDTH=300
 
