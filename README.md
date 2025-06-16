@@ -1,100 +1,100 @@
-# Wallpapers
+# 🖼️ Wallpaper Gallery
 
-<table>
+*Showing page 1 of 3 (26 total wallpapers)*
+
+---
+
+
+---
+
+<div align="center">
+
+  <span style="color: #ccc;">← Previous</span>
+  &nbsp;&nbsp;&nbsp;
+  <strong>Page 1 of 3</strong>
+  &nbsp;&nbsp;&nbsp;
+  <a href="README-page-2.md">Next →</a>
+
+</div>
+
+<div align="center">
+  <small>
+    Pages: <strong>1</strong> • <a href="README-page-2.md">2</a> • <a href="README-page-3.md">3</a>
+  </small>
+</div>
+
+<table align="center">
   <tr>
     <td align="center" width="300px">
-      <img src="wall1.png" width="300px"><br>
+      <img src="wall1.png" width="300px" alt="wall1"><br>
+      <small><em>wall1</em></small>
     </td>
     <td align="center" width="300px">
-      <img src="wall2.jpg" width="300px"><br>
+      <img src="wall2.jpg" width="300px" alt="wall2"><br>
+      <small><em>wall2</em></small>
     </td>
     <td align="center" width="300px">
-      <img src="wall3.png" width="300px"><br>
+      <img src="wall3.png" width="300px" alt="wall3"><br>
+      <small><em>wall3</em></small>
     </td>
   </tr>
   <tr>
     <td align="center" width="300px">
-      <img src="wall4.jpg" width="300px"><br>
+      <img src="wall4.jpg" width="300px" alt="wall4"><br>
+      <small><em>wall4</em></small>
     </td>
     <td align="center" width="300px">
-      <img src="wall5.png" width="300px"><br>
+      <img src="wall5.png" width="300px" alt="wall5"><br>
+      <small><em>wall5</em></small>
     </td>
     <td align="center" width="300px">
-      <img src="wall6.jpg" width="300px"><br>
+      <img src="wall6.jpg" width="300px" alt="wall6"><br>
+      <small><em>wall6</em></small>
     </td>
   </tr>
   <tr>
     <td align="center" width="300px">
-      <img src="wall7.png" width="300px"><br>
+      <img src="wall7.png" width="300px" alt="wall7"><br>
+      <small><em>wall7</em></small>
     </td>
     <td align="center" width="300px">
-      <img src="wall8.png" width="300px"><br>
+      <img src="wall8.png" width="300px" alt="wall8"><br>
+      <small><em>wall8</em></small>
     </td>
     <td align="center" width="300px">
-      <img src="wall9.png" width="300px"><br>
+      <img src="wall9.png" width="300px" alt="wall9"><br>
+      <small><em>wall9</em></small>
     </td>
   </tr>
   <tr>
     <td align="center" width="300px">
-      <img src="wall10.png" width="300px"><br>
+      <img src="wall10.png" width="300px" alt="wall10"><br>
+      <small><em>wall10</em></small>
     </td>
-    <td align="center" width="300px">
-      <img src="wall11.png" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall12.jpg" width="300px"><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300px">
-      <img src="wall13.jpg" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall14.jpg" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall15.png" width="300px"><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300px">
-      <img src="wall16.jpg" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall17.jpg" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall18.png" width="300px"><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300px">
-      <img src="wall19.png" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall20.png" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall21.png" width="300px"><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300px">
-      <img src="wall22.jpg" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall23.jpg" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall24.png" width="300px"><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300px">
-      <img src="wall25.png" width="300px"><br>
-    </td>
-    <td align="center" width="300px">
-      <img src="wall26.png" width="300px"><br>
-    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+  <span style="color: #ccc;">← Previous</span>
+  &nbsp;&nbsp;&nbsp;
+  <strong>Page 1 of 3</strong>
+  &nbsp;&nbsp;&nbsp;
+  <a href="README-page-2.md">Next →</a>
+
+</div>
+
+<div align="center">
+  <small>
+    Pages: <strong>1</strong> • <a href="README-page-2.md">2</a> • <a href="README-page-3.md">3</a>
+  </small>
+</div>
+
+---
+<div align="center">
+  <small>Generated automatically with the wallpaper gallery script</small>
+</div>
