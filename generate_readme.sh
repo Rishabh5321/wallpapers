@@ -5,14 +5,21 @@ IMAGES_PER_PAGE=10
 COLUMNS=3
 IMAGE_WIDTH=300
 
-echo "Generating paginated wallpaper gallery..."
+# Check if we're in the right directory
+if [ ! -d ".git" ]; then
+    echo "⚠️  Warning: Not in a git repository. Make sure you're in the right directory."
+fi
 
-# Get all image files sorted
-mapfile -t images < <(find . -maxdepth 1 -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.gif" -o -iname "*.webp" \) | sort -V)
+echo "🎨 Generating paginated wallpaper gallery..."
+
+# Get all image files sorted (with better error handling)
+echo "🔍 Scanning for images..."
+mapfile -t images < <(find . -maxdepth 1 -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.gif" -o -iname "*.webp" \) 2>/dev/null | sort -V)
 
 total_images=${#images[@]}
 if [ $total_images -eq 0 ]; then
-    echo "No images found in current directory!"
+    echo "❌ No images found in current directory!"
+    echo "   Make sure you have image files (.png, .jpg, .jpeg, .gif, .webp) in this folder."
     exit 1
 fi
 
