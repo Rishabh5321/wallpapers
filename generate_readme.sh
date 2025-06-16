@@ -135,7 +135,7 @@ generate_table() {
 
         echo "    <td width=\"${IMAGE_WIDTH}px\" align=\"center\">" >> "$filename"
         echo "      <a href=\"$img_clean\">" >> "$filename"
-        echo "        <img src=\"$img_clean\" width=\"${IMAGE_WIDTH}px\" alt=\"Wallpaper: $img_name\">" >> "$filename"
+        echo "        <img src=\"src/$img_clean\" width=\"${IMAGE_WIDTH}px\" alt=\"Wallpaper: $img_name\">" >> "$filename"
         echo "      </a>" >> "$filename"
         echo "      <br>" >> "$filename"
         echo "      <small><i>$img_name</i></small>" >> "$filename"
