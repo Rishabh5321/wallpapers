@@ -26,9 +26,19 @@
 <table align="center">
   <tr>
     <td align="center" width="300px">
+      <img src="wall19.png" width="300px" alt="wall19"><br>
+      <small><em>wall19</em></small>
+    </td>
+    <td align="center" width="300px">
+      <img src="wall20.png" width="300px" alt="wall20"><br>
+      <small><em>wall20</em></small>
+    </td>
+    <td align="center" width="300px">
       <img src="wall21.png" width="300px" alt="wall21"><br>
       <small><em>wall21</em></small>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="300px">
       <img src="wall22.jpg" width="300px" alt="wall22"><br>
       <small><em>wall22</em></small>
@@ -37,12 +47,12 @@
       <img src="wall23.jpg" width="300px" alt="wall23"><br>
       <small><em>wall23</em></small>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="300px">
       <img src="wall24.png" width="300px" alt="wall24"><br>
       <small><em>wall24</em></small>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="300px">
       <img src="wall25.png" width="300px" alt="wall25"><br>
       <small><em>wall25</em></small>
@@ -51,6 +61,7 @@
       <img src="wall26.png" width="300px" alt="wall26"><br>
       <small><em>wall26</em></small>
     </td>
+    <td></td>
   </tr>
 </table>
 

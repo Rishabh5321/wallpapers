@@ -66,14 +66,6 @@
       <small><em>wall9</em></small>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="300px">
-      <img src="wall10.png" width="300px" alt="wall10"><br>
-      <small><em>wall10</em></small>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 ---

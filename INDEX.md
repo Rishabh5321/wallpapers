@@ -4,15 +4,15 @@ This gallery contains **26 wallpapers** across **3 pages**.
 
 ## 📄 Pages
 
-- **[Page 1](README.md)** - Wallpapers 1-10
-- **[Page 2](README-page-2.md)** - Wallpapers 11-20
-- **[Page 3](README-page-3.md)** - Wallpapers 21-26
+- **[Page 1](README.md)** - Wallpapers 1-9
+- **[Page 2](README-page-2.md)** - Wallpapers 10-18
+- **[Page 3](README-page-3.md)** - Wallpapers 19-26
 
 ---
 
 ### 🎨 Quick Stats
 - **Total Images:** 26
-- **Images per Page:** 10
+- **Images per Page:** 9
 - **Total Pages:** 3
 - **Supported Formats:** PNG, JPG, JPEG, GIF, WebP
 
