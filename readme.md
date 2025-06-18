@@ -23,21 +23,21 @@
 <table width="100%" align="center">
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall1.png">
+      <a href="src/wall1.png">
         <img src="src/wall1.png" width="300px" alt="Wallpaper: wall1">
       </a>
       <br>
       <small><i>wall1</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall2.jpg">
+      <a href="src/wall2.jpg">
         <img src="src/wall2.jpg" width="300px" alt="Wallpaper: wall2">
       </a>
       <br>
       <small><i>wall2</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall3.png">
+      <a href="src/wall3.png">
         <img src="src/wall3.png" width="300px" alt="Wallpaper: wall3">
       </a>
       <br>
@@ -46,21 +46,21 @@
   </tr>
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall4.jpg">
+      <a href="src/wall4.jpg">
         <img src="src/wall4.jpg" width="300px" alt="Wallpaper: wall4">
       </a>
       <br>
       <small><i>wall4</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall5.jpg">
+      <a href="src/wall5.jpg">
         <img src="src/wall5.jpg" width="300px" alt="Wallpaper: wall5">
       </a>
       <br>
       <small><i>wall5</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall6.png">
+      <a href="src/wall6.png">
         <img src="src/wall6.png" width="300px" alt="Wallpaper: wall6">
       </a>
       <br>
@@ -69,21 +69,21 @@
   </tr>
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall7.jpg">
+      <a href="src/wall7.jpg">
         <img src="src/wall7.jpg" width="300px" alt="Wallpaper: wall7">
       </a>
       <br>
       <small><i>wall7</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall8.jpg">
+      <a href="src/wall8.jpg">
         <img src="src/wall8.jpg" width="300px" alt="Wallpaper: wall8">
       </a>
       <br>
       <small><i>wall8</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall9.png">
+      <a href="src/wall9.png">
         <img src="src/wall9.png" width="300px" alt="Wallpaper: wall9">
       </a>
       <br>

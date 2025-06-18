@@ -23,21 +23,21 @@
 <table width="100%" align="center">
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall82.jpg">
+      <a href="src/wall82.jpg">
         <img src="src/wall82.jpg" width="300px" alt="Wallpaper: wall82">
       </a>
       <br>
       <small><i>wall82</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall83.png">
+      <a href="src/wall83.png">
         <img src="src/wall83.png" width="300px" alt="Wallpaper: wall83">
       </a>
       <br>
       <small><i>wall83</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall84.jpg">
+      <a href="src/wall84.jpg">
         <img src="src/wall84.jpg" width="300px" alt="Wallpaper: wall84">
       </a>
       <br>
@@ -46,21 +46,21 @@
   </tr>
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall85.jpg">
+      <a href="src/wall85.jpg">
         <img src="src/wall85.jpg" width="300px" alt="Wallpaper: wall85">
       </a>
       <br>
       <small><i>wall85</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall86.jpg">
+      <a href="src/wall86.jpg">
         <img src="src/wall86.jpg" width="300px" alt="Wallpaper: wall86">
       </a>
       <br>
       <small><i>wall86</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall87.png">
+      <a href="src/wall87.png">
         <img src="src/wall87.png" width="300px" alt="Wallpaper: wall87">
       </a>
       <br>
@@ -69,21 +69,21 @@
   </tr>
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall88.jpg">
+      <a href="src/wall88.jpg">
         <img src="src/wall88.jpg" width="300px" alt="Wallpaper: wall88">
       </a>
       <br>
       <small><i>wall88</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall89.jpg">
+      <a href="src/wall89.jpg">
         <img src="src/wall89.jpg" width="300px" alt="Wallpaper: wall89">
       </a>
       <br>
       <small><i>wall89</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall90.jpg">
+      <a href="src/wall90.jpg">
         <img src="src/wall90.jpg" width="300px" alt="Wallpaper: wall90">
       </a>
       <br>

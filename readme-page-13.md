@@ -23,21 +23,21 @@
 <table width="100%" align="center">
   <tr align="center">
     <td width="300px" align="center">
-      <a href="wall109.jpg">
+      <a href="src/wall109.jpg">
         <img src="src/wall109.jpg" width="300px" alt="Wallpaper: wall109">
       </a>
       <br>
       <small><i>wall109</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall110.jpg">
+      <a href="src/wall110.jpg">
         <img src="src/wall110.jpg" width="300px" alt="Wallpaper: wall110">
       </a>
       <br>
       <small><i>wall110</i></small>
     </td>
     <td width="300px" align="center">
-      <a href="wall111.jpg">
+      <a href="src/wall111.jpg">
         <img src="src/wall111.jpg" width="300px" alt="Wallpaper: wall111">
       </a>
       <br>
