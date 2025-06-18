@@ -134,7 +134,7 @@ generate_table() {
         local img_name=$(basename "$img_clean" | sed 's/\.[^.]*$//')
 
         echo "    <td width=\"${IMAGE_WIDTH}px\" align=\"center\">" >> "$filename"
-        echo "      <a href=\"$img_clean\">" >> "$filename"
+        echo "      <a href=\"src/$img_clean\">" >> "$filename"
         echo "        <img src=\"src/$img_clean\" width=\"${IMAGE_WIDTH}px\" alt=\"Wallpaper: $img_name\">" >> "$filename"
         echo "      </a>" >> "$filename"
         echo "      <br>" >> "$filename"
